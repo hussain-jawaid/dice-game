@@ -4,7 +4,7 @@ A simple and interactive Dice Game built with ReactJS and Tailwind CSS. The game
 
 ## Live Demo
 
-[Click here to play the game](https://dice-game-gamma-rouge.vercel.app)
+[Click here to play the game](https://dice-game-fawn-seven.vercel.app)
 
 ## Game Rules
 
